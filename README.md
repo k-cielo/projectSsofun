@@ -6,6 +6,10 @@
 <h3>프로젝트 소개</h3>
 SSOFUN은 펀딩과 쇼핑몰이 결합된 사이트로 일반회원이 쇼핑몰의 소비자이면서 펀딩의 창작자로도 활동할 수 있는 플랫폼입니다.
 
+<h3>ERD</h3>
+https://www.erdcloud.com/d/PKWS9RjckaTMbHAE9
+<img width="900px" height="600px"  src="https://github.com/k-cielo/projectSsofun/assets/129083310/9748aadb-be74-4114-a698-614cdf1caae3"/>
+
 
 
 <h3>개발 기간</h3>
