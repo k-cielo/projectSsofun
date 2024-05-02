@@ -12,6 +12,7 @@ SSOFUN은 펀딩과 쇼핑몰이 결합된 사이트로 일반회원이 쇼핑�
 
 
 <h3>개발환경</h3>
+![image](https://github.com/k-cielo/projectSsofun/assets/129083310/1425f38f-1c2b-42fe-a99d-5a7865253aa4)
 
 
 
