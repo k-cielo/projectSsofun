@@ -1,6 +1,7 @@
 <h1>Project SSOFUN</h1>
 
 
+<img width="100%" src="https://github.com/k-cielo/projectSsofun/assets/129083310/71df73d6-23ee-480a-b687-748b8998c80c"/>
 
 
 <h3>프로젝트 소개</h3>
